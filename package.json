@@ -34,7 +34,7 @@
     "fs": "0.0.1-security",
     "jasmine": "3.3.1",
     "jasmine-node": "1.16.2",
-    "nodemon": "1.18.10",
+    "nodemon": "1.19.3",
     "pre-commit": "1.2.2",
     "randomstring": "1.1.5",
     "standard-version": "7.0.0"
